@@ -2,7 +2,7 @@
 int main()
 {
     int a[10], i, greatest;
-    printf("Enter ten integers : \n");
+    printf("Enter 10 integers : \n");
     for ( i = 0; i < 10; i++)
     {
         scanf("%d", &a[i]);
