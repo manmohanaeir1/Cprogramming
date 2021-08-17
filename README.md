@@ -1,5 +1,6 @@
 # Cprogramming
-git init
+
+1)git init
 
 2) git add .
 
