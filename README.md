@@ -1,4 +1,8 @@
 # Cprogramming
+change branch 
+$ git branch
+$ git  checkout main
+
 
 1)git init
 
