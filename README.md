@@ -13,3 +13,5 @@
 5) git pull origin master
 
 6) git push origin master
+
+8) git push origin main
